@@ -7,7 +7,7 @@
       ellipsis: '&hellip;',
       multilineClass: 'multiline',
       tooltipClass: 'has_tooltip',
-      tooltipSpanClass: 'bstrap_tooltip',
+      tooltipSpanClass: 'ellipsis_tooltip',
       trimFunction: $.fn.ellipsis.trimLastWord,
       heightFunction:$.fn.ellipsis.height,
       widthFunction:$.fn.ellipsis.width
