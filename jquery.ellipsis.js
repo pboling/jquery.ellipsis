@@ -1,5 +1,6 @@
 /**
  * Inspired by http://stackoverflow.com/questions/536814/insert-ellipsis-into-html-tag-if-content-too-wide
+ * Inspiration for options design from sakura-sky/jquery-ellipsis
  */
 (function($) {
   $.fn.ellipsis = function(options) {
