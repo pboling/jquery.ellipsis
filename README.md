@@ -12,3 +12,7 @@ compatibility, a new version should be immediately released that
 restores compatibility. Breaking changes to the public API will 
 only be introduced with new major versions.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pboling/jquery.ellipsis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
