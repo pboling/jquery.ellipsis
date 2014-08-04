@@ -12,7 +12,7 @@
       trimFunction: $.fn.ellipsis.trimLastWord,
       heightFunction:$.fn.ellipsis.height,
       widthFunction:$.fn.ellipsis.width
-    });
+    }, options);
 
     return this.each(function()
     {
